@@ -15,6 +15,8 @@ $( document ).ready(function(){
 			+"\nTelefono:"+$("#tel").val()
 			+"\nWeb:"+$("#web").val()
 			+"\nPIVA:"+$("#piva").val()
+			+"\nNomeVia:"+$("#addrstreet").val()
+			+"\nNumeroCivico:"+$("#addrnumb").val()
 			+"\nNote:"+$("#note").val();
 		      
 		      // Invia i dati a osm 
